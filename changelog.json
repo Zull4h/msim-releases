@@ -1,0 +1,42 @@
+{
+  "releases": [
+    {
+      "version": "0.3.0",
+      "date": "2026-11-12",
+      "changes": [
+        {
+          "text": "\"What's new\" after an update: this window. You can turn it off below or in Settings → Updates."
+        },
+        {
+          "text": "New Stat Targets tab: the best split of your gear's secondary stats, simmed at full gear (every item at the top upgrade step)."
+        },
+        { "text": "New Trinkets tab: ranks the season's trinkets at chosen item levels." },
+        { "text": "New Advanced tab: run a hand-edited simc input as a Quick Sim." },
+        {
+          "text": "Import a character from the Armory, no setup needed. Your own Blizzard API client is an optional fallback in Settings."
+        },
+        {
+          "text": "Top Gear: add items by name, in the game language or English; lock an equipped ring, trinket or one-hander in its slot; Great Vault items right under the equipped one."
+        },
+        {
+          "text": "Top Gear results: a best-gear summary that frames only what changed, and an Auctionator shopping list for the winner in the game language."
+        },
+        {
+          "text": "Droptimizer: shows which worn item each drop replaces and catalysed drops as their set piece; item-level chips, Raid + Mythic+, bonus roll."
+        },
+        {
+          "text": "Character panel: gear grid with item levels, stats panel with a Rating / % switch, Armory portraits framed for every playable race."
+        },
+        {
+          "text": "Item tooltips count your worn set pieces (2/5 instead of 0/5) and highlight the set bonuses you have."
+        },
+        { "text": "Raid buffs: grouped tiles with tooltips; your own Bloodlust can be turned off." },
+        { "text": "Top bar: smaller sims are in the \"More\" menu." },
+        {
+          "text": "Number fields: clear and retype freely; the allowed range applies on Enter or when you leave the field."
+        },
+        { "text": "Fixed: the bonus roll on dungeon loot is +10 at Myth 1/6." }
+      ]
+    }
+  ]
+}
