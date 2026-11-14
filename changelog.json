@@ -1,6 +1,18 @@
 {
   "releases": [
     {
+      "version": "0.3.1",
+      "date": "2026-11-14",
+      "changes": [
+        {
+          "text": "Catalysed set pieces keep the stats of the item they were made from, in sims and tooltips, including after an Armory import."
+        },
+        {
+          "text": "A catalysed set piece shows a small icon of its original item (character gear, Top Gear, best gear); hover it for that item's tooltip."
+        }
+      ]
+    },
+    {
       "version": "0.3.0",
       "date": "2026-11-12",
       "changes": [
